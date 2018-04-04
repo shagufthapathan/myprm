@@ -1,1 +1,2 @@
 hello, capgemini
+welcome to java training
